@@ -7,6 +7,8 @@ LTspice_OPA_square_wave_generator, single supply OPA LT1006 and dual supply OPA 
 
 ![LM324_dual_supply_opa_single_5V_ok.JPG](LM324_dual_supply_opa_single_5V_ok.JPG)  
 
+
+LTspice source code [humidity_sensor.asc](humidity_sensor.asc)  
 ![LM324_LT1006_single_5V_ok.JPG](LM324_LT1006_single_5V_ok.JPG)   
 
 
