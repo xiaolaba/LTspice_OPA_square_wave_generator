@@ -1,8 +1,18 @@
 # LTspice_OPA_square_wave_generator
 LTspice_OPA_square_wave_generator, single supply OPA LT1006 and dual supply OPA LM324, inverting amplifier and the virtual ground set to half of supply voltage.  
 
+![OPA_osc_single_supply_NG.JPG](OPA_osc_single_supply_NG.JPG)   
+
+![OPA_osc_dual_supply.JPG](OPA_osc_dual_supply.JPG)   
+
+![LM324_dual_supply_opa_single_5V_ok.JPG](LM324_dual_supply_opa_single_5V_ok.JPG)  
+
+![LM324_LT1006_single_5V_ok.JPG](LM324_LT1006_single_5V_ok.JPG)   
+
+
+
 ### LM324 SPICE model for simulation,
-download SPICE model from on-semi, https://www.onsemi.com/download/models/mod/lm324%20spice%20model%20.mod
+download SPICE model from on-semi, https://www.onsemi.com/download/models/mod/lm324%20spice%20model%20.mod   
 local copy [LM324_SPICE_MODEL.MOD](LM324_SPICE_MODEL.MOD)  
 open this file with LTspice XIIV,  
 select "LM324", right click, "create symbol"  
