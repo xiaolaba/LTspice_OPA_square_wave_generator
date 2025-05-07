@@ -32,7 +32,8 @@ go to schmatice, add component, add LM324 for simulation
 
 
 ### complete project, Humistor signal conditioning
-HITACHI_RD-12KL_conditioner, HUMI_SENSOR_broad.  
+[使用說明書-日立除濕機RD-12KE_RD-12KL機種.pdf](使用說明書-日立除濕機RD-12KE_RD-12KL機種.pdf)  
+HITACHI_RD-12KL_air_conditioner, HUMI_SENSOR_broad.  
 Humistor is driven by AC signal, extends life span, prevents corrosion. quad opAmp LM324 is used.  
 U1, square wave generator to drive humistor.
 U2, buffer, 2v2 voltage reference for all OPA.  
