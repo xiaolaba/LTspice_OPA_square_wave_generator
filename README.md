@@ -31,3 +31,16 @@ go to schmatice, add component, add LM324 for simulation
 ![LM324_select_component.JPG](LM324_select_component.JPG)  
 
 
+### complete project, Humistor signal conditioning
+Humistor is driven by AC signal, extends life span, prevents corrosion. quad opAmp LM324 is used.  
+U1, square wave generator to drive humistor.
+U2, buffer, 2v2 voltage reference for all OPA.  
+U3, should be precision rectifier.  
+U4, should be integrator for humistor to voltage output.  
+
+![HITACHI_RD-12KL_HUMI_SENSOR_1K_VOUT3v3.jpg](HITACHI_RD-12KL_HUMI_SENSOR_1K_VOUT3v3.jpg)   
+![HITACHI_RD-12KL_HUMI_SENSOR_10K_VOUT2v5.jpg](HITACHI_RD-12KL_HUMI_SENSOR_10K_VOUT2v5.jpg)  
+
+[xiaolaba_humidity_sensor.zip](xiaolaba_humidity_sensor.zip)  
+
+
