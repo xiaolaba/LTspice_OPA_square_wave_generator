@@ -47,3 +47,10 @@ complete source code of LTspice XVII
 [xiaolaba_humidity_sensor.zip](xiaolaba_humidity_sensor.zip)  
 
 
+### To do more? log amp
+Humistor, log resposne, [aosong_hr202l_apr22_xonlink.pdf](aosong_hr202l_apr22_xonlink.pdf)  
+[basic_log_amp_ADI_MT-077.pdf](basic_log_amp_ADI_MT-077.pdf)  
+[high_frequency_log_amp_ADI_MT-078.pdf](high_frequency_log_amp_ADI_MT-078.pdf)  
+
+rearanged U3 and D1 and others surrounded component, it looks like basic log amp does...
+![LM324_U3_diode_log_amp.JPG](LM324_U3_diode_log_amp.JPG)  
