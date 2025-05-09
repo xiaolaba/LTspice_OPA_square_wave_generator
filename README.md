@@ -1,5 +1,6 @@
 # LTspice_OPA_square_wave_generator
-LTspice_OPA_square_wave_generator, single supply OPA LT1006 and dual supply OPA LM324, inverting amplifier and the virtual ground set to half of supply voltage.  
+LTspice_OPA_square_wave_generator, single supply OPA LT1006 and dual supply OPA LM324, inverting amplifier and the virtual ground set to half of supply voltage. 
+LTspice source code [humidity_sensor.asc](humidity_sensor.asc)  
 
 ![OPA_osc_single_supply_NG.JPG](OPA_osc_single_supply_NG.JPG)   
 
@@ -8,7 +9,7 @@ LTspice_OPA_square_wave_generator, single supply OPA LT1006 and dual supply OPA 
 ![LM324_dual_supply_opa_single_5V_ok.JPG](LM324_dual_supply_opa_single_5V_ok.JPG)  
 
 
-LTspice source code [humidity_sensor.asc](humidity_sensor.asc)  
+
 ![LM324_LT1006_single_5V_ok.JPG](LM324_LT1006_single_5V_ok.JPG)   
 
 
@@ -48,6 +49,7 @@ complete source code of LTspice XVII
 
 
 ### To do more? log amp
+LTspice source code [humidity_sensor.asc](humidity_sensor.asc)  
 Humistor, log resposne, [aosong_hr202l_apr22_xonlink.pdf](aosong_hr202l_apr22_xonlink.pdf)  
 [basic_log_amp_ADI_MT-077.pdf](basic_log_amp_ADI_MT-077.pdf)  
 [high_frequency_log_amp_ADI_MT-078.pdf](high_frequency_log_amp_ADI_MT-078.pdf)  
